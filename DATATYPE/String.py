@@ -1,4 +1,4 @@
-name_string = "Gaurav Patkari" #string = text eclosed in single or double quotes (change)
+name_string = "Gaurav Patkari" #string = text eclosed in single or double quotes 
 print (name_string)
 
 message1 = '"Beautifull is better than ugly." Said Faster'
