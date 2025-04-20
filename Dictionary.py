@@ -1,8 +1,8 @@
-''' Dictionary :- In python is a dta sturcture, use dto store values in [ key: value] format. This make it different from list, tuples and arrays.
-                  In dictionary each key has an assoiated value.
-                  A dictionary is crated by placing a sequence o elemtns within curyly {} braces separated by 'comma'.
+''' Dictionary :- In python is a data structure, use data to store values in [ key: value] format. This make it different from list, tuples and arrays.
+                  In dictionary each key has an associated value.
+                  A dictionary is created by placing a sequence o elements within curyly {} braces separated by 'comma'.
                   Which hold the pair element being its Key:Value.
-                  Where "Value" in dictionary can be of any data type and can be duplicated, where as key can't be reaeated and must be immutable.
+                  Where "Value" in dictionary can be of any data type and can be duplicated, where as key can't be recreated and must be immutable.
                   
 '''
 
@@ -13,7 +13,7 @@ print(Dict)
 
 
 dict = {'Name': 'Gaurav', 1:[1,2,3,4]}
-print("\nDictionary iwht the use of Mied Keys:")
+print("\nDictionary with the use of Mixed Keys:")
 print(dict)
 
 
